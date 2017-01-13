@@ -1,2 +1,0 @@
-# Sentimental
-script
